@@ -1,0 +1,9 @@
+$ curl http://127.0.0.1:8000/djangoapp/dealer/1/
+{
+  "id": 1,
+  "full_name": "Kansas City Motors",
+  "city": "Kansas City",
+  "state": "Kansas",
+  "address": "100 Main Street",
+  "zip": "66101"
+}

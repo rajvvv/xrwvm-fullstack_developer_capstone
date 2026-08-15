@@ -1,0 +1,5 @@
+$ curl "http://127.0.0.1:8000/djangoapp/dealers/Kansas"
+[
+  {"id":1,"full_name":"Kansas City Motors","city":"Kansas City","state":"Kansas"},
+  {"id":2,"full_name":"Sunflower Auto Group","city":"Wichita","state":"Kansas"}
+]

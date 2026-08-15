@@ -1,0 +1,9 @@
+$ curl http://127.0.0.1:8000/djangoapp/dealer/1/reviews/
+[
+  {
+    "id": 101,
+    "dealership": 1,
+    "review": "Fantastic services",
+    "username": "rajvardhan"
+  }
+]
